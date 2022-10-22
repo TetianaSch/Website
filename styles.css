@@ -83,8 +83,7 @@ section {
   margin: 20px 90px;
 }
 .h4 {
-  margin-top: 20px;
-  margin-left: 50px;
+  margin-top: 20px auto;
 }
 .bi {
   width: 30px;
