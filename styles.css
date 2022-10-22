@@ -82,6 +82,10 @@ section {
 .h1 {
   margin: 20px 90px;
 }
+.h4 {
+  margin-top: 20px;
+  margin-left: 50px;
+}
 .bi {
   width: 30px;
   height: 30px;
